@@ -1,312 +1,311 @@
---- !Country Tags
-Countries:
+#Country Tags
 Aboriginal WebLuddites:
-	tag: ABO
+  tag: ABO
 Aceh:
-	tag: ACE
+  tag: ACE
 Ainu Kingdom:
-	tag: AIN
+  tag: AIN
 Amazonian WebLuddies:
-	tag: AMA
+  tag: AMA
 Angoche:
-	tag: ANG
+  tag: ANG
 Aro:
-	tag: ARO
+  tag: ARO
 Aryan Nation:
-	tag: ARY
+  tag: ARY
 Ashanti:
-	tag: ASH
+  tag: ASH
 Aussa:
-	tag: AUS
+  tag: AUS
 AzTech Empire:
-	tag: AZT
+  tag: AZT
 Babylon:
-	tag: BAB
+  tag: BAB
 Bactria:
-	tag: BAC
+  tag: BAC
 Badman Barony:
-	tag: BAD
+  tag: BAD
 Bahrain:
-	tag: BAH
+  tag: BAH
 Bama Aggregation:
-	tag: BAM
+  tag: BAM
 Bambara:
-	tag: BMB
+  tag: BMB
 Basotho:
-	tag: BAS
+  tag: BAS
 Bastar:
-	tag: BST
+  tag: BST
 Benin:
-	tag: FUG
+  tag: FUG
 Bone:
-	tag: BON
+  tag: BON
 Bornu:
-	tag: BOR
+  tag: BOR
 BraziLua:
-	tag: BRA
+  tag: BRA
 Brunei:
-	tag: BRU
+  tag: BRU
 Buffalo Empire:
-	tag: BUF
+  tag: BUF
 Bukhara:
-	tag: BUK
+  tag: BUK
 Burmyanmar:
-	tag: BUR
+  tag: BUR
 Bytetown:
-	tag: BYT
+  tag: BYT
 Byzantine Empire:
-	tag: BYZ
+  tag: BYZ
 Carolina:
-	tag: CAR
+  tag: CAR
 Calabar:
-	tag: CAL
+  tag: CAL
 Carthage:
-	tag: CRT
+  tag: CRT
 Champa:
-	tag: CHA
+  tag: CHA
 Cher-OKE:
-	tag: CHE
+  tag: CHE
 Cusco Republic:
-	tag: CUS
+  tag: CUS
 Cyberia:
-	tag: CYB
+  tag: CYB
 Dahomey:
-	tag: DAH
+  tag: DAH
 Dakota WebLuddites:
-	tag: DAK
+  tag: DAK
 Damagaram:
-	tag: DAM
+  tag: DAM
 David Empire:
-	tag: DAV
+  tag: DAV
 Dendi:
-	tag: DEN
+  tag: DEN
 E-cuador:
-	tag: ECU
+  tag: ECU
 Earl State:
-	tag: EAR
+  tag: EAR
 East Pakistan:
-	tag: EPA
+  tag: EPA
 Fadhli:
-	tag: FAD
+  tag: FAD
 Fez Ethnostate:
-	tag: FEZ
+  tag: FEZ
 Finno-Monhol Khanate:
-	tag: FMK
+  tag: FMK
 Flow River Khaganate:
-	tag: FRK
+  tag: FRK
 Futa Jallon:
-	tag: FTJ
+  tag: FTJ
 Futa Tooro:
-	tag: FTT
+  tag: FTT
 Gabu:
-	tag: GAB
+  tag: GAB
 Gaza:
-	tag: GAZ
+  tag: GAZ
 Gonder:
-	tag: GON
+  tag: GON
 Great Lake Oligarchy:
-	tag: GLO
+  tag: GLO
 Greater Inuit Empire:
-	tag: GIE
+  tag: GIE
 Greater Sandusky Reich:
-	tag: GSR
+  tag: GSR
 Greenland:
-	tag: GRE
+  tag: GRE
 Guarani Hyperkingdom:
-	tag: GUA
+  tag: GUA
 Guyanese Parkour Sultante:
-	tag: GPS
+  tag: GPS
 Hail:
-	tag: HAI
+  tag: HAI
 Haida Conglomerate:
-	tag: HAC
+  tag: HAC
 Hara:
-	tag: HAR
+  tag: HAR
 Hawaii:
-	tag: HAW
+  tag: HAW
 Hay-T:
-	tag: HAY
+  tag: HAY
 Herspaniola:
-	tag: HER
+  tag: HER
 Huasteca:
-	tag: HUA
+  tag: HUA
 Iron Confederacy:
-	tag: IRC
+  tag: IRC
 Java:
-	tag: JAV
+  tag: JAV
 Jeffersonia:
-	tag: JEF
+  tag: JEF
 Kaaba Directorate:
-	tag: KAA
+  tag: KAA
 Kaffa:
-	tag: KAF
+  tag: KAF
 Karnatak:
-	tag: KAR
+  tag: KAR
 Kathiri:
-	tag: KAT
+  tag: KAT
 Kazakh Khanate:
-	tag: KAZ
+  tag: KAZ
 Khiva:
-	tag: KHI
+  tag: KHI
 Kingdom of Joseon:
-	tag: KOR
+  tag: KOR
 Knights Hospitaller:
-	tag: KNH
+  tag: KNH
 Knights of the Four Corners:
-	tag: KNF
+  tag: KNF
 Kokand:
-	tag: KOK
+  tag: KOK
 Kongo:
-	tag: KON
+  tag: KON
 Kramer Empire:
-	tag: KRA
+  tag: KRA
 Kunduz:
-	tag: KUN
+  tag: KUN
 Kush:
-	tag: KUS
+  tag: KUS
 Kutai:
-	tag: KUT
+  tag: KUT
 Lahej:
-	tag: LAH
+  tag: LAH
 Liberia:
-	tag: LIB
+  tag: LIB
 Loango:
-	tag: LOA
+  tag: LOA
 London:
-	tag: LON
+  tag: LON
 Madagascar:
-	tag: MAD
+  tag: MAD
 Mahapajit Empire:
-	tag: MAH
+  tag: MAH
 Mahra:
-	tag: MHR
+  tag: MHR
 Massina:
-	tag: MAS
+  tag: MAS
 Matabele:
-	tag: MAT
+  tag: MAT
 Mayapan 2.0:
-	tag: MAY
+  tag: MAY
 Mega Houston:
-	tag: MEG
+  tag: MEG
 Mormon Hive Fleet:
-	tag: MHF
+  tag: MHF
 Mosquito Khanate:
-	tag: MOS
+  tag: MOS
 Mossi:
-	tag: MSI
+  tag: MSI
 Mysore:
-	tag: MYS
+  tag: MYS
 NEOTOKYO:
-	tag: NEO
+  tag: NEO
 Nejd:
-	tag: NEJ
+  tag: NEJ
 Neo Egyptian Empire:
-	tag: NEE
+  tag: NEE
 NeoCairo:
-	tag: NEC
+  tag: NEC
 Net Surfers:
-	tag: NTS
+  tag: NTS
 Netherlands:
-	tag: NET
+  tag: NET
 New Liberia:
-	tag: NEW
+  tag: NEW
 Nork Datahub:
-	tag: NOR
+  tag: NOR
 Oman:
-	tag: OMA
+  tag: OMA
 Oyo:
-	tag: OYO
+  tag: OYO
 Pan-European Cyberstate:
-	tag: EUR
+  tag: EUR
 Papal States:
-	tag: PAP
+  tag: PAP
 Parkour Principality:
-	tag: PRP
+  tag: PRP
 Parthia:
-	tag: PAR
+  tag: PAR
 Piranha Empire:
-	tag: PIR
+  tag: PIR
 Portugal:
-	tag: POR
+  tag: POR
 Qatar:
-	tag: QAT
+  tag: QAT
 Ryukyu:
-	tag: RYU
+  tag: RYU
 Shan:
-	tag: SHA
+  tag: SHA
 Shewa:
-	tag: SHE
+  tag: SHE
 Shilluk:
-	tag: SHI
+  tag: SHI
 Sokoto:
-	tag: SOK
+  tag: SOK
 Spain:
-	tag: SPA
+  tag: SPA
 Springfield Technocracy:
-	tag: SPR
+  tag: SPR
 Suazi:
-	tag: SUA
+  tag: SUA
 Sulu:
-	tag: SUL
+  tag: SUL
 Tarascan:
-	tag: TAR
+  tag: TAR
 Techno-Canton:
-	tag: TEC
+  tag: TEC
 Tepehuan:
-	tag: TEP
+  tag: TEP
 The Pirate Bay:
-	tag: TPB
+  tag: TPB
 The Qing Empire:
-	tag: QNG
+  tag: QNG
 The Yunnan-Sichuan Cooperative:
-	tag: YSC
+  tag: YSC
 Thunder Dragon Empire:
-	tag: TDE
+  tag: TDE
 Tidore:
-	tag: TID
+  tag: TID
 Tigray:
-	tag: TIG
+  tag: TIG
 Transandean Republic:
-	tag: TRA
+  tag: TRA
 Trarza:
-	tag: TRZ
+  tag: TRZ
 Travancore:
-	tag: TRV
+  tag: TRV
 Trinidad:
-	tag: TRI
+  tag: TRI
 Trucial States:
-	tag: TRU
+  tag: TRU
 URL Republic:
-	tag: URL
+  tag: URL
 Unfortunate Son:
-	tag: CCR
+  tag: CCR
 VenezEULA:
-	tag: VEN
+  tag: VEN
 Viceroyalty of Melbourne:
-	tag: VOM
+  tag: VOM
 Viceroyalty of Rupert:
-	tag: VOR
+  tag: VOR
 Viceroyalty of the Cape:
-	tag: VOC
+  tag: VOC
 Viceroyalty of Vincent:
-	tag: VOV
+  tag: VOV
 Viceroyalty of Zealand:
-	tag: VOZ
+  tag: VOZ
 Vichy France:
-	tag: VIC
+  tag: VIC
 Warri:
-	tag: WAR
+  tag: WAR
 Washington:
-	tag: WAS
+  tag: WAS
 Wattara:
-	tag: WAT
+  tag: WAT
 Western East Pakistan:
-	tag: WEP
+  tag: WEP
 Wolof:
-	tag: WOL
+  tag: WOL
 Xhosa:
-	tag: XHO
+  tag: XHO
 Zaydi:
-	tag: ZAY
+  tag: ZAY
 Zulu:
-	tag: ZUL
+  tag: ZUL
